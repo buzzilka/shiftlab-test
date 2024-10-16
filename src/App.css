@@ -1,9 +1,9 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-.main{
+.main {
   display: flex;
   flex-direction: column;
   margin-top: 7vw;
@@ -11,28 +11,28 @@
   margin-right: 10vw;
 }
 
-.title{
-  font-family:"Inter", sans-serif;
+.title {
+  font-family: "Inter", sans-serif;
   font-weight: 700;
-  font-size:24px;
+  font-size: 24px;
   line-height: 32px;
   margin-bottom: 2vw;
 }
 
-.text{
-  font-family:"Inter", sans-serif;
+.text {
+  font-family: "Inter", sans-serif;
   font-weight: 400;
-  font-size:16px;
+  font-size: 16px;
   line-height: 24px;
   margin-bottom: 2vw;
 }
 
-.timer-start{
+.timer-start {
   margin-top: 3vw;
   color: #97a1af;
 }
 
-.timer-end{
+.timer-end {
   margin-top: 3vw;
   color: #344051;
   font-weight: 700;
@@ -41,21 +41,21 @@
   text-align: center;
 }
 
-.input{
+.input {
   max-width: 464px;
   height: 24px;
   border: 1px solid #ced2da;
   border-radius: 8px;
   padding: 12px 8px 12px 12px;
   gap: 8px;
-  font-family:"Inter", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
-  font-size:16px;
+  font-size: 16px;
   line-height: 24px;
   margin-bottom: 3vw;
 }
 
-.button{
+.button {
   max-width: 328px;
   height: 56px;
   background-color: #1975ff;
@@ -65,8 +65,8 @@
   cursor: pointer;
   padding: 16px 32px 16px 32px;
   gap: 8px;
-  font-family:"Inter", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 600;
-  font-size:16px;
+  font-size: 16px;
   line-height: 24px;
 }
