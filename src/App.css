@@ -28,15 +28,17 @@
 }
 
 .timer-start{
-  margin-top: 5vw;
+  margin-top: 3vw;
   color: #97a1af;
 }
 
 .timer-end{
-  margin-top: 5vw;
+  margin-top: 3vw;
   color: #344051;
   font-weight: 700;
   cursor: pointer;
+  max-width: 328px;
+  text-align: center;
 }
 
 .input{
